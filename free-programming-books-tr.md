@@ -1,5 +1,6 @@
 ### Index
 * [C](#c)
+* [C++](#c-1)
 * [D](#d)
 * [Dart](#dart)
 * [Fortran](#fortran)
@@ -19,11 +20,12 @@
 * [Html](#html)
 * [Android](#android)
 
-
 ### C
 * [C Programlama Diline Giris](http://www1.gantep.edu.tr/~bingul/c/index.php)
 * [Sistem Programlama ve İleri C Uygulamaları Kurs Notları](http://www.kaanaslan.com/resource/course_note/download_file.php?file_id=16)
 
+### C++
+* [Qt 4 ile C++ GUI Programlama](https://ufukuzun.files.wordpress.com/2014/03/qt-4-ile-cpp-gui-programlama1.pdf)
 
 ### D
 * [D Programlama Dili](http://ddili.org/ders/d/D_Programlama_Dili.pdf)
@@ -31,10 +33,8 @@
 ### Dart
 * [Dart - Merhaba Dünya](http://dartogreniyorum.blogspot.com.tr/2013/03/yeniden-dart.html?view=sidebar)
 
-
 ### Fortran
 * [Fortran Programlama Dili](http://www1.gantep.edu.tr/~bingul/f95/index.php)
-
 
 ### Git
 * [git - basit rehber](http://rogerdudler.github.io/git-guide/index.tr.html)
@@ -50,7 +50,6 @@
 
 ### JavaScript
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/tr)
-
 
 ### LaTeX
 * [İnce bir LaTeX2ε Elkitabı](http://www.ctan.org/tex-archive/info/lshort/turkish)
